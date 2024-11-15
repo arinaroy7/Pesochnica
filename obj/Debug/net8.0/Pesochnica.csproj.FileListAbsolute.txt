@@ -1,0 +1,14 @@
+D:\Учеба\3 курс осень\Work\Pesochnica\bin\Debug\net8.0\Pesochnica.exe
+D:\Учеба\3 курс осень\Work\Pesochnica\bin\Debug\net8.0\Pesochnica.deps.json
+D:\Учеба\3 курс осень\Work\Pesochnica\bin\Debug\net8.0\Pesochnica.runtimeconfig.json
+D:\Учеба\3 курс осень\Work\Pesochnica\bin\Debug\net8.0\Pesochnica.dll
+D:\Учеба\3 курс осень\Work\Pesochnica\bin\Debug\net8.0\Pesochnica.pdb
+D:\Учеба\3 курс осень\Work\Pesochnica\obj\Debug\net8.0\Pesochnica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\3 курс осень\Work\Pesochnica\obj\Debug\net8.0\Pesochnica.AssemblyInfoInputs.cache
+D:\Учеба\3 курс осень\Work\Pesochnica\obj\Debug\net8.0\Pesochnica.AssemblyInfo.cs
+D:\Учеба\3 курс осень\Work\Pesochnica\obj\Debug\net8.0\Pesochnica.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс осень\Work\Pesochnica\obj\Debug\net8.0\Pesochnica.dll
+D:\Учеба\3 курс осень\Work\Pesochnica\obj\Debug\net8.0\refint\Pesochnica.dll
+D:\Учеба\3 курс осень\Work\Pesochnica\obj\Debug\net8.0\Pesochnica.pdb
+D:\Учеба\3 курс осень\Work\Pesochnica\obj\Debug\net8.0\Pesochnica.genruntimeconfig.cache
+D:\Учеба\3 курс осень\Work\Pesochnica\obj\Debug\net8.0\ref\Pesochnica.dll
